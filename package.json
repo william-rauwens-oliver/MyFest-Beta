@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "expo": "^51.0.8",
+    "react-native-deck-swiper": "^2.0.17",
+    "react-native-gesture-handler": "^2.16.2",
+    "typescript": "~5.3.3",
+    "@types/react": "~18.2.79"
+  }
+}

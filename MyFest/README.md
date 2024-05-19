@@ -1,0 +1,1 @@
+Application available on August 15, 2024 on the App Store and Google Play Store in V1
